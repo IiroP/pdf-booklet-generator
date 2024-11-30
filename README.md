@@ -8,7 +8,7 @@ Generate a booklet from PDF (for example "sitsiläsy")
 
 ## Usage
 ```
-usage: main.py [-h] input output
+usage: pdfbooklet.py [-h] input output
 
 Create booklet from pdf
 
@@ -20,4 +20,4 @@ options:
   -h, --help  show this help message and exit
 ```
 
-For example: `python main.py input.pdf output.pdf`
+For example: `python pdfbooklet.py input.pdf output.pdf`
